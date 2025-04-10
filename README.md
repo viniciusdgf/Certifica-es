@@ -1,2 +1,2 @@
-# Certifica-es
-Aqui estão alocados os meu certificados
+# Certificados
+Aqui estão alocados os meu certificados relacionados à programação mobile.
